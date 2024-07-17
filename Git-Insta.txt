@@ -4,3 +4,4 @@ Instagram
 2.Notification
 3.Chat
 4.Profile
+5.Reels
